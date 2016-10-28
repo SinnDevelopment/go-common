@@ -1,4 +1,4 @@
-package go-common
+package golib
 
 import (
     "strings"
